@@ -3,25 +3,25 @@
 
 
 Nombre: Victor
-Apellido: Camarena
+Apellido: Cam
 Institución: UACh
-Celular: 5561024795
+Celular: 5561
 E-mail: vcamarena79@gmiil.com
 
 Nombre: Alberto
-Apellido: Rios
-Institución: UPTex
+Apellido: Ri
+Institución: UP
 Celular: ---
 E-mail: ---
 
 Nombre: Miguel
-Apellido: Robles
+Apellido: Ro
 Institución: UNAM
 Celular: ---
 E-mail: ---
 
 Nombre: Karla
-Apellido: Camarena
-Institución: UPEM
+Apellido: Cam
+Institución: UP
 Celular: ---
 E-mail: ---
